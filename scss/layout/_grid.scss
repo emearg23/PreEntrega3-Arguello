@@ -1,0 +1,54 @@
+
+
+
+
+
+.flex-container {
+    display: flex;
+    flex-flow: row wrap;
+    background-color: gray;
+    padding: 10px;
+    border: 2px;
+    float: right;
+}
+
+.img1 { 
+    width: 330px;
+    height: auto;
+    padding: 20px;
+    display: block;
+    margin-inline-start: 1%;
+    float: inherit;
+}
+
+.img2 { 
+    width: 330px;
+    height: auto;
+    padding: 20px;
+    display: block;
+    margin-inline-start: 3%;
+    float: inherit;
+}
+
+.img3 {
+    width: 330px;
+    height: auto;
+    padding: 20px;
+    display: block;
+    margin-inline-start: 3%;
+    float: inherit;
+}
+
+.img4 {
+    width: 320px;
+    height: auto;
+    padding: 20px;
+    display: block;
+    margin-inline-start: 6%;
+    float: inherit;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;
+}
